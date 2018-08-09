@@ -1,2 +1,3 @@
-# Aula2.1
-Devops
+Angelina Jolie 
+Caio Castro
+Marina Ruy Barbosa
